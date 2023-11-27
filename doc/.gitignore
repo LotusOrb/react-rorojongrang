@@ -1,0 +1,12 @@
+# nodejs and npm related
+node_modules
+package-lock.json
+
+# Environtment variable
+.env
+.env.production
+
+# Build artefact
+dist
+build
+.cache
