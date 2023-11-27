@@ -2,7 +2,7 @@
 node_modules
 package-lock.json
 
-# Envrontment variable
+# Environtment variable
 .env
 .env.production
 
